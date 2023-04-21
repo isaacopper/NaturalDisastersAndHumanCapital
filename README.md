@@ -15,7 +15,7 @@ This repository includes the code for the paper "The effect of natural disasters
 * EffectGraphs.R --> Non-parametrically estimates the relationship between log disaster size and the human capital components (e.g., produces Figure 3a/b in the paper)
 
 ## Aggregating the Results
-* EffectCalcs.do --> Combines the results into a top-line number and graphs it via a bar chart (e.g., produces Figure 4 in the paper)
+* BarChart.do --> Combines the results into a top-line number and graphs it via a bar chart (e.g., produces Figure 4 in the paper)
 
 ## Robustness, Heterogeneity, and Responses to Reviewers
 * Robustness.do --> Various checks of how robust the results are.
