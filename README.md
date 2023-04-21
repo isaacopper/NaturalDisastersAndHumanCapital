@@ -19,5 +19,4 @@ This repository includes the code for the paper "The effect of natural disasters
 
 ## Robustness, Heterogeneity, and Responses to Reviewers
 * Robustness.do --> Various checks of how robust the results are.
-* PhysicalCharacteristics.R --> How does property damage relate to physical characteristics of the disasters?
 * Heterogeneity.do --> How to the results vary by characteristics of the counties?
